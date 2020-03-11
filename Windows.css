@@ -1,0 +1,56 @@
+body
+{ background-image :url(Tapeta.jpg )  ;
+    background-repeat: no-repeat;
+    background-size: auto; 
+  
+}
+#pasek{
+    position: fixed;;
+    top: 96%;
+    height: 4%;
+    width: 100%;
+    background-color: rgb(41, 104, 240);
+    margin-left: -2px;
+    padding: 0;
+}
+#pasek2{
+    position: fixed;
+    height: 4%;
+    width: 15%;
+    background-color: #049FFB;
+    top: 96%;
+    left: 85%;
+    }
+
+
+    #zegar{
+        position: fixed;
+        top: 96.5%;
+    left: 90%;
+        color: #fff;
+        font-weight:bold;
+        font-size: 120%;
+        }
+        #start{
+            background-color: #3D993C;
+            position: fixed;
+            height: 4%;
+            width: 10%;
+            top:96%;
+            left: 0;
+            border-radius: 0px 6px 6px 0px;
+            text-align: center;
+            padding-top:0.8% ;
+            font-weight:bold;
+            color: white;
+        }
+        #flaga{
+            height: 2%;
+            width: 2%;
+            position: absolute;
+            top: 97%;
+            left:1%;
+        }
+        #start:hover{
+            
+        }
